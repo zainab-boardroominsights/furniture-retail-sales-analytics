@@ -10,9 +10,21 @@ The objective of this project was to transform fragmented retail sales data into
 
 ---
 
+## Project Objectives
+
+- Centralize retail performance reporting
+- Improve executive visibility into sales and profitability
+- Analyze customer retention trends
+- Track store and salesperson performance
+- Support data-driven strategic decisions
+- Monitor operational and financial KPIs
+
+---
+
 ## Business Problem
 
 Retail organizations often face challenges such as:
+
 - fragmented reporting across stores
 - limited visibility into profitability
 - difficulty tracking customer retention
@@ -37,23 +49,43 @@ This dashboard was created to address these challenges through an interactive an
 
 ---
 
+## Skills Demonstrated
+
+- Executive Dashboard Design
+- KPI Development
+- Business Performance Analysis
+- Financial Analytics
+- Data Storytelling
+- Customer Analytics
+- Data Visualization
+- Looker Studio Development
+- Analytical Problem Solving
+- Business Intelligence Reporting
+
+---
+
 ## Data Source
 
-- Source Type: Microsoft Excel
-- Data Includes:
-  - Sales Transactions
-  - Store Information
-  - Customer Data
-  - Product Categories
-  - Salesperson Performance
-  - Revenue & Profitability Metrics
+### Source Type
+Microsoft Excel
+
+### Data Includes
+
+- Sales Transactions
+- Store Information
+- Customer Data
+- Product Categories
+- Salesperson Performance
+- Revenue & Profitability Metrics
 
 ---
 
 ## Dashboard Modules
 
 ### Executive Overview Dashboard
-Provides a high-level summary of:
+
+Provides high-level visibility into:
+
 - Revenue performance
 - Gross profit analysis
 - Monthly growth trends
@@ -61,24 +93,36 @@ Provides a high-level summary of:
 - Product category contribution
 - Customer retention metrics
 
+---
+
 ### Sales Team Performance Dashboard
+
 Focused on:
+
 - Revenue by salesperson
 - Discount impact analysis
 - Conversion performance
 - Repeat customer analysis
 - Monthly sales trends
 
+---
+
 ### Customer Intelligence & Store Analytics Dashboard
+
 Focused on:
+
 - Customer retention
 - Store-level comparisons
 - Customer growth trends
 - Revenue segmentation
 - Product performance by location
 
+---
+
 ### Financial & Profitability Analytics Dashboard
+
 Focused on:
+
 - Gross profit trends
 - Margin analysis
 - Cost efficiency
@@ -123,26 +167,31 @@ Focused on:
 ## Sample Calculated Metrics
 
 ### Gross Profit Margin %
+
 ```text
 Gross Profit / Revenue
 ```
 
 ### Average Order Value
+
 ```text
 Revenue / Total Orders
 ```
 
 ### Revenue Growth %
+
 ```text
 (Current Period Revenue - Previous Period Revenue) / Previous Period Revenue
 ```
 
 ### Repeat Customer Rate
+
 ```text
 Repeat Customers / Total Customers
 ```
 
 ### Revenue per Salesperson
+
 ```text
 Total Revenue / Number of Salespersons
 ```
@@ -180,8 +229,7 @@ furniture-retail-sales-analytics/
 │
 ├── README.md
 ├── Furniture-Retail-Sales-Analytics-Dashboard.pdf
-├── dataset/
-│   └── furniture_sales_data.xlsx
+├── Furniture Sales Data.xlsx
 │
 ├── screenshots/
 │   ├── executive-overview.png
@@ -194,26 +242,46 @@ furniture-retail-sales-analytics/
 
 ## Dashboard Preview
 
-<img width="1513" height="757" alt="image" src="https://github.com/user-attachments/assets/3d475a2b-9593-4fa9-bbe8-e8cd0bbe59e7" />
+### Executive Overview Dashboard
 
-<img width="1523" height="757" alt="image" src="https://github.com/user-attachments/assets/e9de95a1-3678-4f7f-9b32-e2779664400b" />
+![Executive Overview](screenshots/executive-overview.png)
 
-<img width="1517" height="755" alt="image" src="https://github.com/user-attachments/assets/1ca50c60-de08-4774-9deb-4176fb3e1e8a" />
+---
 
-<img width="1515" height="760" alt="image" src="https://github.com/user-attachments/assets/50e1e28a-9209-45ff-a034-e5528731fd03" />
+### Sales Team Performance Dashboard
 
+![Sales Team Performance](screenshots/sales-performance.png)
+
+---
+
+### Customer Intelligence & Store Analytics Dashboard
+
+![Customer Analytics](screenshots/customer-analytics.png)
+
+---
+
+### Financial & Profitability Analytics Dashboard
+
+![Profitability Analytics](screenshots/profitability-dashboard.png)
+
+---
+
+## Repository Contents
+
+- README.md
+- Furniture Retail Sales Analytics Dashboard.pdf
+- Furniture Sales Data.xlsx
+- Dashboard Screenshots
 
 ---
 
 ## About This Project
 
 This project is part of my growing portfolio focused on:
+
 - Executive Business Intelligence
 - Financial Analytics
 - KPI & Performance Reporting
 - Business Performance Transformation
 
 Through Boardroom Insights, I aim to combine finance, strategy, and analytics into solutions that help businesses create clarity, visibility, and smarter decision-making.
-
----
-
