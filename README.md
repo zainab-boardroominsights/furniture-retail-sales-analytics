@@ -90,8 +90,11 @@ This solution demonstrates how business intelligence can help retail organizatio
 ## Dashboard Preview
 
 <img width="1513" height="757" alt="image" src="https://github.com/user-attachments/assets/3d475a2b-9593-4fa9-bbe8-e8cd0bbe59e7" />
+
 <img width="1523" height="757" alt="image" src="https://github.com/user-attachments/assets/e9de95a1-3678-4f7f-9b32-e2779664400b" />
+
 <img width="1517" height="755" alt="image" src="https://github.com/user-attachments/assets/1ca50c60-de08-4774-9deb-4176fb3e1e8a" />
+
 <img width="1515" height="760" alt="image" src="https://github.com/user-attachments/assets/50e1e28a-9209-45ff-a034-e5528731fd03" />
 
 
